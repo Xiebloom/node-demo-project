@@ -1,0 +1,22 @@
+{
+  "name": "node-project-demo",
+  "version": "1.0.0",
+  "description": "a demo for learning node.js",
+  "main": "09-rock-game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xiebloom/node-demo-project.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "akiak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xiebloom/node-demo-project/issues"
+  },
+  "homepage": "https://github.com/Xiebloom/node-demo-project#readme"
+}
